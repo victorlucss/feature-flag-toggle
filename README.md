@@ -8,6 +8,12 @@ This is a **study repository** (please don't judge haha) focusing in implement F
 - **/ff-toggle-sdk** - The Feature Flag React SDK (mainly the `FFToggleContext`, that will be what I expected to export and be the real SDK, the App.js is an example of the FF working)
 - **/playground** - A Node environment to test the events on API Socket, I'll use this, for instance, to test the socket authentication or something like that
 
+### Demo
+
+
+https://user-images.githubusercontent.com/11355873/158416007-a7c405bf-5268-4744-a8f2-8fc4270ef04a.mp4
+
+
 ### Brainstorm
 
 So let's see which things a tool that manages FF need?
